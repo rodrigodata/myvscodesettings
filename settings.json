@@ -1,0 +1,37 @@
+{
+    "editor.fontFamily": "Hasklig",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Abyss",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": false,
+    "editor.fontWeight": "700",
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.formatOnSave": true
+    },
+    "[css]": {
+        "editor.formatOnSave": true
+    },
+    "[scss]": {
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true
+    },
+    "explorer.confirmDelete": false,
+    "peacock.favoriteColors": [
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ],
+    "peacock.affectActivityBar": true,
+    "peacock.affectStatusBar": true,
+    "peacock.affectTitleBar": true,
+    "peacock.elementAdjustments": {
+      "activityBar": "lighten"
+    },
+    "explorer.confirmDragAndDrop": false
+}
