@@ -5,7 +5,7 @@ Lista de extensões que uso:
 - Prettier
 - WakaTime
 - Material Icon Theme
-
+ 
 Tema:
 - Abyss
  
